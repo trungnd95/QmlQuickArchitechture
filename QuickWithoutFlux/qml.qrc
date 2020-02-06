@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Partials/Menu.qml</file>
+        <file>Partials/Body.qml</file>
+        <file>Partials/Footer.qml</file>
+        <file>assets/fonts/ComicSansMS3.ttf</file>
+        <file>assets/fonts/fa-brands-400.ttf</file>
+        <file>assets/fonts/fa-regular-400.ttf</file>
+        <file>assets/fonts/fa-solid-900.ttf</file>
+        <file>assets/fonts/fontawesome-webfont.ttf</file>
+        <file>assets/fonts/FontAwesomeRegular-400.otf</file>
+        <file>assets/fonts/FontAwesomeSolid-900.otf</file>
+        <file>assets/fonts/Nunito-Regular.ttf</file>
+        <file>assets/images/bg.jpeg</file>
+        <file>assets/images/liveStreamActive.gif</file>
+        <file>assets/images/VTX_logo.png</file>
+        <file>assets/javascripts/Helper.js</file>
+        <file>Components/MenuItem.qml</file>
+        <file>Components/PagiBtn.qml</file>
+    </qresource>
+</RCC>
